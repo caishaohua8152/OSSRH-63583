@@ -1,0 +1,27 @@
+#庚顿实时数据库配置
+golden: 
+  rtdb: 
+    #host: 127.0.0.1
+    host: 10.26.66.40
+    port: 6327
+    username: sa
+    password: golden
+    #initialSize: 10
+    minIdle: 10
+    maxIdle: 30
+    #maxActive: 20
+    
+#朗坤实时数据库配置
+#luculent: 
+#  rtdb: 
+#    
+
+#麦杰实时数据库配置
+#magustek: 
+#  rtdb: 
+#  
+
+#宝信实时数据库配置
+#baosight: 
+#  rtdb: 
+#  
